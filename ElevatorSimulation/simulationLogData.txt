@@ -1,0 +1,165 @@
+
+  ==============================
+   Elevator Simulation Log Data
+  ==============================
+
+
+  Number of Passengers for elevator : 
+
+ Thread 7988 is associated with Elevator 1
+
+ Thread 23288 is associated with Elevator 2
+
+ Thread 13760 is associated with Elevator 3
+
+ Thread 15116 is associated with Elevator 4
+3
+
+  People 1requested from Floor 1 to 27
+  -----------------------------------
+
+  Elevator 3 will serve the request
+  Current Floor : 0 of Elevator 3
+
+ == Get Elevator Function Exited 
+
+  People 2requested from Floor 5 to 16
+  -----------------------------------
+
+  Elevator 1 will serve the request
+
+ == Get Elevator Function Exited 
+  Current Floor : 0 of Elevator 1
+
+  People 3requested from Floor 8 to 36
+  -----------------------------------
+
+  Elevator 2 will serve the request
+  Current Floor : 0 of Elevator 2
+
+ == Get Elevator Function Exited 
+  Number of Passengers for elevator : 
+  Current Floor : 1 of Elevator 3
+
+  Person Entering the elevator 3 is : 1
+  Current Floor : 1 of Elevator 1
+  Current Floor : 1 of Elevator 2
+  Current Floor : 2 of Elevator 1
+  Current Floor : 2 of Elevator 3
+  Current Floor : 2 of Elevator 2
+  Current Floor : 3 of Elevator 1
+  Current Floor : 3 of Elevator 3
+  Current Floor : 3 of Elevator 2
+  Current Floor : 4 of Elevator 1
+  Current Floor : 4 of Elevator 2
+  Current Floor : 4 of Elevator 3
+  Current Floor : 5 of Elevator 1
+  Current Floor : 5 of Elevator 2
+
+  Person Entering the elevator 1 is : 2
+  Current Floor : 5 of Elevator 3
+  Current Floor : 6 of Elevator 3
+  Current Floor : 6 of Elevator 2
+  Current Floor : 6 of Elevator 1
+  Current Floor : 7 of Elevator 1
+  Current Floor : 7 of Elevator 2
+  Current Floor : 7 of Elevator 3
+  Current Floor : 8 of Elevator 1
+  Current Floor : 8 of Elevator 2
+
+  Person Entering the elevator 2 is : 3
+  Current Floor : 8 of Elevator 3
+  Current Floor : 9 of Elevator 1
+  Current Floor : 9 of Elevator 3
+  Current Floor : 9 of Elevator 2
+  Current Floor : 10 of Elevator 1
+  Current Floor : 10 of Elevator 2
+  Current Floor : 10 of Elevator 3
+  Current Floor : 11 of Elevator 1
+  Current Floor : 11 of Elevator 2
+  Current Floor : 11 of Elevator 3
+  Current Floor : 12 of Elevator 1
+  Current Floor : 12 of Elevator 2
+  Current Floor : 12 of Elevator 3
+  Current Floor : 13 of Elevator 3
+  Current Floor : 13 of Elevator 1
+  Current Floor : 13 of Elevator 2
+  Current Floor : 14 of Elevator 2
+  Current Floor : 14 of Elevator 3
+  Current Floor : 14 of Elevator 1
+  Current Floor : 15 of Elevator 1
+  Current Floor : 15 of Elevator 3
+  Current Floor : 15 of Elevator 2
+  Current Floor : 16 of Elevator 1
+
+  Person Leaving the elevator 1 is : 2
+  Current Floor : 16 of Elevator 3
+  Current Floor : 16 of Elevator 2
+
+  All the requests served for Elevator 1
+
+ == Move Elevator Function Exited  for Elevator 1
+  Current Floor : 17 of Elevator 2
+  Current Floor : 17 of Elevator 3
+  Current Floor : 18 of Elevator 2
+  Current Floor : 18 of Elevator 3
+  Current Floor : 19 of Elevator 2
+  Current Floor : 19 of Elevator 3
+  Current Floor : 20 of Elevator 2
+  Current Floor : 20 of Elevator 3
+  Current Floor : 21 of Elevator 3
+  Current Floor : 21 of Elevator 2
+  Current Floor : 22 of Elevator 3
+  Current Floor : 22 of Elevator 2
+  Current Floor : 23 of Elevator 3
+  Current Floor : 23 of Elevator 2
+  Current Floor : 24 of Elevator 3
+  Current Floor : 24 of Elevator 2
+  Current Floor : 25 of Elevator 3
+  Current Floor : 25 of Elevator 2
+  Current Floor : 26 of Elevator 3
+  Current Floor : 26 of Elevator 2
+  Current Floor : 27 of Elevator 3
+
+  Person Leaving the elevator 3 is : 1
+  Current Floor : 27 of Elevator 2
+  Current Floor : 28 of Elevator 2
+
+  All the requests served for Elevator 3
+
+ == Move Elevator Function Exited  for Elevator 3
+  Current Floor : 29 of Elevator 2
+  Current Floor : 30 of Elevator 2
+  Current Floor : 31 of Elevator 2
+  Current Floor : 32 of Elevator 2
+  Current Floor : 33 of Elevator 2
+  Current Floor : 34 of Elevator 2
+  Current Floor : 35 of Elevator 2
+  Current Floor : 36 of Elevator 2
+
+  Person Leaving the elevator 2 is : 3
+
+  All the requests served for Elevator 2
+
+ == Move Elevator Function Exited  for Elevator 2
+0
+
+ == Exiting Request Thread 
+
+ == Move Elevator Function Exited  for Elevator 2
+
+ == Exiting Thread for Elevator 2
+
+ == Move Elevator Function Exited  for Elevator 1
+
+ == Exiting Thread for Elevator 1
+
+ == Move Elevator Function Exited  for Elevator 3
+
+ == Exiting Thread for Elevator 3
+
+ == Move Elevator Function Exited  for Elevator 4
+
+ == Exiting Thread for Elevator 4
+
+ == Exiting Main Thread 

@@ -1,0 +1,29 @@
+
+  ==============================
+   Elevator Simulation Statistics
+  ==============================
+
+  Number Of People Served by Elevator 1 : 1
+  Run Time for Elevator 1 : 89s
+  Idle Time for Elevator 1 : 2s
+
+  ----------------------------------------
+
+  Number Of People Served by Elevator 2 : 1
+  Run Time for Elevator 2 : 189s
+  Idle Time for Elevator 2 : 2s
+
+  ----------------------------------------
+
+  Number Of People Served by Elevator 3 : 1
+  Run Time for Elevator 3 : 144s
+  Idle Time for Elevator 3 : 2s
+
+  ----------------------------------------
+
+  Number Of People Served by Elevator 4 : 0
+  Run Time for Elevator 4 : 0s
+  Idle Time for Elevator 4 : 1s
+
+  ----------------------------------------
+
